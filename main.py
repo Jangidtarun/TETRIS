@@ -28,3 +28,5 @@ def main():
 main()
 
 print("----- END TETRIS -----")
+
+print("added")
